@@ -1,0 +1,268 @@
+2025-11-27 15:12:54,580 [WARNING] model: Default dataset candidate missing: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_2024.csv
+2025-11-27 15:12:54,580 [INFO] model: Loading default dataset from f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-11-27 15:12:54,580 [INFO] model: Loading CSV dataset: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-11-27 15:12:54,584 [INFO] __main__: Default dataset loaded successfully.
+2025-11-27 15:12:57,183 [INFO] __main__: Starting prediction thread.
+2025-11-27 15:12:57,184 [INFO] model: Denormalized field 'soil_moisture' using domain range [0.0, 100.0].
+2025-11-27 15:12:57,186 [INFO] model: Denormalized field 'soil_pH' using domain range [3.5, 8.5].
+2025-11-27 15:12:57,186 [INFO] model: Denormalized field 'temperature' using domain range [0.0, 50.0].
+2025-11-27 15:12:57,187 [INFO] model: Denormalized field 'rainfall' using domain range [0.0, 400.0].
+2025-11-27 15:12:57,188 [INFO] model: Denormalized field 'humidity' using domain range [0.0, 100.0].
+2025-11-27 15:12:57,189 [INFO] model: Denormalized field 'sunlight_hours' using domain range [0.0, 14.0].
+2025-11-27 15:12:57,189 [INFO] model: Denormalized field 'pesticide_usage' using domain range [0.0, 200.0].
+2025-11-27 15:12:57,190 [INFO] model: Denormalized field 'total_days' using domain range [0.0, 220.0].
+2025-11-27 15:12:57,191 [INFO] model: Denormalized field 'latitude' using domain range [-90.0, 90.0].
+2025-11-27 15:12:57,191 [INFO] model: Denormalized field 'longitude' using domain range [-180.0, 180.0].
+2025-11-27 15:12:57,575 [INFO] model: Prediction completed: 4065.29
+2025-11-27 15:12:57,575 [INFO] __main__: Prediction succeeded: 4065.29
+2025-11-27 15:15:57,687 [WARNING] model: Default dataset candidate missing: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_2024.csv
+2025-11-27 15:15:57,688 [INFO] model: Loading default dataset from f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-11-27 15:15:57,688 [INFO] model: Loading CSV dataset: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-11-27 15:15:57,691 [INFO] __main__: Default dataset loaded successfully.
+2025-11-27 15:16:03,181 [INFO] __main__: Starting prediction thread.
+2025-11-27 15:16:03,184 [INFO] model: Denormalized field 'soil_moisture' using domain range [0.0, 100.0].
+2025-11-27 15:16:03,185 [INFO] model: Denormalized field 'soil_pH' using domain range [3.5, 8.5].
+2025-11-27 15:16:03,186 [INFO] model: Denormalized field 'temperature' using domain range [0.0, 50.0].
+2025-11-27 15:16:03,189 [INFO] model: Denormalized field 'rainfall' using domain range [0.0, 400.0].
+2025-11-27 15:16:03,190 [INFO] model: Denormalized field 'humidity' using domain range [0.0, 100.0].
+2025-11-27 15:16:03,191 [INFO] model: Denormalized field 'sunlight_hours' using domain range [0.0, 14.0].
+2025-11-27 15:16:03,192 [INFO] model: Denormalized field 'pesticide_usage' using domain range [0.0, 200.0].
+2025-11-27 15:16:03,193 [INFO] model: Denormalized field 'total_days' using domain range [0.0, 220.0].
+2025-11-27 15:16:03,193 [INFO] model: Denormalized field 'latitude' using domain range [-90.0, 90.0].
+2025-11-27 15:16:03,194 [INFO] model: Denormalized field 'longitude' using domain range [-180.0, 180.0].
+2025-11-27 15:16:03,613 [INFO] model: Prediction completed: 4065.29
+2025-11-27 15:16:03,614 [INFO] __main__: Prediction succeeded: 4065.29
+2025-11-27 15:39:44,634 [WARNING] model: Default dataset candidate missing: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_2024.csv
+2025-11-27 15:39:44,634 [INFO] model: Loading default dataset from f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-11-27 15:39:44,634 [INFO] model: Loading CSV dataset: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-11-27 15:39:44,637 [INFO] __main__: Default dataset loaded successfully.
+2025-11-27 15:39:53,826 [INFO] __main__: Starting prediction thread.
+2025-11-27 15:39:53,828 [INFO] model: Denormalized field 'soil_moisture' using domain range [0.0, 100.0].
+2025-11-27 15:39:53,831 [INFO] model: Denormalized field 'soil_pH' using domain range [3.5, 8.5].
+2025-11-27 15:39:53,832 [INFO] model: Denormalized field 'temperature' using domain range [0.0, 50.0].
+2025-11-27 15:39:53,832 [INFO] model: Denormalized field 'rainfall' using domain range [0.0, 400.0].
+2025-11-27 15:39:53,833 [INFO] model: Denormalized field 'humidity' using domain range [0.0, 100.0].
+2025-11-27 15:39:53,834 [INFO] model: Denormalized field 'sunlight_hours' using domain range [0.0, 14.0].
+2025-11-27 15:39:53,835 [INFO] model: Denormalized field 'pesticide_usage' using domain range [0.0, 200.0].
+2025-11-27 15:39:53,836 [INFO] model: Denormalized field 'total_days' using domain range [0.0, 220.0].
+2025-11-27 15:39:53,836 [INFO] model: Denormalized field 'latitude' using domain range [-90.0, 90.0].
+2025-11-27 15:39:53,840 [INFO] model: Denormalized field 'longitude' using domain range [-180.0, 180.0].
+2025-11-27 15:39:54,214 [INFO] model: Prediction completed: 4065.29
+2025-11-27 15:39:54,214 [INFO] __main__: Prediction succeeded: 4065.29
+2025-11-27 15:42:20,198 [WARNING] model: Default dataset candidate missing: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_2024.csv
+2025-11-27 15:42:20,198 [INFO] model: Loading default dataset from f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-11-27 15:42:20,199 [INFO] model: Loading CSV dataset: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-11-27 15:42:20,202 [INFO] __main__: Default dataset loaded successfully.
+2025-11-27 15:43:30,866 [WARNING] model: Default dataset candidate missing: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_2024.csv
+2025-11-27 15:43:30,866 [INFO] model: Loading default dataset from f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-11-27 15:43:30,866 [INFO] model: Loading CSV dataset: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-11-27 15:43:30,870 [INFO] __main__: Default dataset loaded successfully.
+2025-12-02 09:03:18,298 [WARNING] model: Default dataset candidate missing: F:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_2024.csv
+2025-12-02 09:03:18,299 [INFO] model: Loading default dataset from F:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-12-02 09:03:18,299 [INFO] model: Loading CSV dataset: F:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-12-02 09:03:18,314 [INFO] __main__: Default dataset loaded successfully.
+2025-12-04 13:10:31,958 [WARNING] model: Default dataset candidate missing: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_2024.csv
+2025-12-04 13:10:31,959 [INFO] model: Loading default dataset from f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-12-04 13:10:31,959 [INFO] model: Loading CSV dataset: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-12-04 13:10:31,974 [INFO] __main__: Default dataset loaded successfully.
+2025-12-04 13:10:39,057 [INFO] __main__: Starting prediction thread.
+2025-12-04 13:10:39,064 [INFO] model: Denormalized field 'soil_moisture' using domain range [0.0, 100.0].
+2025-12-04 13:10:39,065 [INFO] model: Denormalized field 'soil_pH' using domain range [3.5, 8.5].
+2025-12-04 13:10:39,065 [INFO] model: Denormalized field 'temperature' using domain range [0.0, 50.0].
+2025-12-04 13:10:39,066 [INFO] model: Denormalized field 'rainfall' using domain range [0.0, 400.0].
+2025-12-04 13:10:39,067 [INFO] model: Denormalized field 'humidity' using domain range [0.0, 100.0].
+2025-12-04 13:10:39,067 [INFO] model: Denormalized field 'sunlight_hours' using domain range [0.0, 14.0].
+2025-12-04 13:10:39,068 [INFO] model: Denormalized field 'pesticide_usage' using domain range [0.0, 200.0].
+2025-12-04 13:10:39,069 [INFO] model: Denormalized field 'total_days' using domain range [0.0, 220.0].
+2025-12-04 13:10:39,070 [INFO] model: Denormalized field 'latitude' using domain range [-90.0, 90.0].
+2025-12-04 13:10:39,071 [INFO] model: Denormalized field 'longitude' using domain range [-180.0, 180.0].
+2025-12-04 13:10:39,439 [INFO] model: Prediction completed: 4065.29
+2025-12-04 13:10:39,440 [INFO] __main__: Prediction succeeded: 4065.29
+2025-12-04 13:24:25,376 [WARNING] model: Default dataset candidate missing: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_2024.csv
+2025-12-04 13:24:25,377 [INFO] model: Loading default dataset from f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-12-04 13:24:25,377 [INFO] model: Loading CSV dataset: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-12-04 13:24:25,380 [INFO] __main__: Default dataset loaded successfully.
+2025-12-04 13:24:27,703 [INFO] __main__: Starting prediction thread.
+2025-12-04 13:24:27,706 [INFO] model: Denormalized field 'soil_moisture' using domain range [0.0, 100.0].
+2025-12-04 13:24:27,707 [INFO] model: Denormalized field 'soil_pH' using domain range [3.5, 8.5].
+2025-12-04 13:24:27,708 [INFO] model: Denormalized field 'temperature' using domain range [0.0, 50.0].
+2025-12-04 13:24:27,709 [INFO] model: Denormalized field 'rainfall' using domain range [0.0, 400.0].
+2025-12-04 13:24:27,709 [INFO] model: Denormalized field 'humidity' using domain range [0.0, 100.0].
+2025-12-04 13:24:27,710 [INFO] model: Denormalized field 'sunlight_hours' using domain range [0.0, 14.0].
+2025-12-04 13:24:27,711 [INFO] model: Denormalized field 'pesticide_usage' using domain range [0.0, 200.0].
+2025-12-04 13:24:27,712 [INFO] model: Denormalized field 'total_days' using domain range [0.0, 220.0].
+2025-12-04 13:24:27,713 [INFO] model: Denormalized field 'latitude' using domain range [-90.0, 90.0].
+2025-12-04 13:24:27,713 [INFO] model: Denormalized field 'longitude' using domain range [-180.0, 180.0].
+2025-12-04 13:24:28,078 [INFO] model: Prediction completed: 4065.29
+2025-12-04 13:24:28,079 [INFO] __main__: Prediction succeeded: 4065.29
+2025-12-04 13:24:33,509 [INFO] __main__: Starting prediction thread.
+2025-12-04 13:24:33,511 [INFO] model: Denormalized field 'soil_moisture' using domain range [0.0, 100.0].
+2025-12-04 13:24:33,511 [INFO] model: Denormalized field 'soil_pH' using domain range [3.5, 8.5].
+2025-12-04 13:24:33,512 [INFO] model: Denormalized field 'temperature' using domain range [0.0, 50.0].
+2025-12-04 13:24:33,513 [INFO] model: Denormalized field 'rainfall' using domain range [0.0, 400.0].
+2025-12-04 13:24:33,515 [INFO] model: Denormalized field 'humidity' using domain range [0.0, 100.0].
+2025-12-04 13:24:33,516 [INFO] model: Denormalized field 'sunlight_hours' using domain range [0.0, 14.0].
+2025-12-04 13:24:33,517 [INFO] model: Denormalized field 'pesticide_usage' using domain range [0.0, 200.0].
+2025-12-04 13:24:33,518 [INFO] model: Denormalized field 'total_days' using domain range [0.0, 220.0].
+2025-12-04 13:24:33,518 [INFO] model: Denormalized field 'latitude' using domain range [-90.0, 90.0].
+2025-12-04 13:24:33,519 [INFO] model: Denormalized field 'longitude' using domain range [-180.0, 180.0].
+2025-12-04 13:24:33,884 [INFO] model: Prediction completed: 4065.29
+2025-12-04 13:24:33,884 [INFO] __main__: Prediction succeeded: 4065.29
+2025-12-04 13:25:08,898 [INFO] __main__: Starting prediction thread.
+2025-12-04 13:25:08,901 [INFO] model: Denormalized field 'soil_moisture' using domain range [0.0, 100.0].
+2025-12-04 13:25:08,902 [INFO] model: Denormalized field 'soil_pH' using domain range [3.5, 8.5].
+2025-12-04 13:25:08,903 [INFO] model: Denormalized field 'temperature' using domain range [0.0, 50.0].
+2025-12-04 13:25:08,905 [INFO] model: Denormalized field 'rainfall' using domain range [0.0, 400.0].
+2025-12-04 13:25:08,906 [INFO] model: Denormalized field 'humidity' using domain range [0.0, 100.0].
+2025-12-04 13:25:08,907 [INFO] model: Denormalized field 'sunlight_hours' using domain range [0.0, 14.0].
+2025-12-04 13:25:08,908 [INFO] model: Denormalized field 'pesticide_usage' using domain range [0.0, 200.0].
+2025-12-04 13:25:08,908 [INFO] model: Denormalized field 'total_days' using domain range [0.0, 220.0].
+2025-12-04 13:25:08,909 [INFO] model: Denormalized field 'latitude' using domain range [-90.0, 90.0].
+2025-12-04 13:25:08,910 [INFO] model: Denormalized field 'longitude' using domain range [-180.0, 180.0].
+2025-12-04 13:25:09,277 [INFO] model: Prediction completed: 4097.91
+2025-12-04 13:25:09,277 [INFO] __main__: Prediction succeeded: 4097.91
+2025-12-04 13:27:03,544 [WARNING] model: Default dataset candidate missing: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_2024.csv
+2025-12-04 13:27:03,545 [INFO] model: Loading default dataset from f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-12-04 13:27:03,545 [INFO] model: Loading CSV dataset: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-12-04 13:27:03,548 [INFO] __main__: Default dataset loaded successfully.
+2025-12-04 13:27:59,426 [INFO] __main__: Starting prediction thread.
+2025-12-04 13:27:59,428 [INFO] model: Denormalized field 'soil_moisture' using domain range [0.0, 100.0].
+2025-12-04 13:27:59,429 [INFO] model: Denormalized field 'soil_pH' using domain range [3.5, 8.5].
+2025-12-04 13:27:59,430 [INFO] model: Denormalized field 'temperature' using domain range [0.0, 50.0].
+2025-12-04 13:27:59,431 [INFO] model: Denormalized field 'rainfall' using domain range [0.0, 400.0].
+2025-12-04 13:27:59,432 [INFO] model: Denormalized field 'humidity' using domain range [0.0, 100.0].
+2025-12-04 13:27:59,433 [INFO] model: Denormalized field 'sunlight_hours' using domain range [0.0, 14.0].
+2025-12-04 13:27:59,433 [INFO] model: Denormalized field 'pesticide_usage' using domain range [0.0, 200.0].
+2025-12-04 13:27:59,434 [INFO] model: Denormalized field 'total_days' using domain range [0.0, 220.0].
+2025-12-04 13:27:59,435 [INFO] model: Denormalized field 'latitude' using domain range [-90.0, 90.0].
+2025-12-04 13:27:59,436 [INFO] model: Denormalized field 'longitude' using domain range [-180.0, 180.0].
+2025-12-04 13:27:59,802 [INFO] model: Prediction completed: 4065.29
+2025-12-04 13:27:59,802 [INFO] __main__: Prediction succeeded: 4065.29
+2025-12-04 13:28:03,738 [INFO] __main__: Starting prediction thread.
+2025-12-04 13:28:03,741 [INFO] model: Denormalized field 'soil_moisture' using domain range [0.0, 100.0].
+2025-12-04 13:28:03,742 [INFO] model: Denormalized field 'soil_pH' using domain range [3.5, 8.5].
+2025-12-04 13:28:03,742 [INFO] model: Denormalized field 'temperature' using domain range [0.0, 50.0].
+2025-12-04 13:28:03,743 [INFO] model: Denormalized field 'rainfall' using domain range [0.0, 400.0].
+2025-12-04 13:28:03,743 [INFO] model: Denormalized field 'humidity' using domain range [0.0, 100.0].
+2025-12-04 13:28:03,745 [INFO] model: Denormalized field 'sunlight_hours' using domain range [0.0, 14.0].
+2025-12-04 13:28:03,746 [INFO] model: Denormalized field 'pesticide_usage' using domain range [0.0, 200.0].
+2025-12-04 13:28:03,746 [INFO] model: Denormalized field 'total_days' using domain range [0.0, 220.0].
+2025-12-04 13:28:03,747 [INFO] model: Denormalized field 'latitude' using domain range [-90.0, 90.0].
+2025-12-04 13:28:03,747 [INFO] model: Denormalized field 'longitude' using domain range [-180.0, 180.0].
+2025-12-04 13:28:04,116 [INFO] model: Prediction completed: 3764.92
+2025-12-04 13:28:04,117 [INFO] __main__: Prediction succeeded: 3764.92
+2025-12-04 13:28:08,051 [INFO] __main__: Starting prediction thread.
+2025-12-04 13:28:08,053 [INFO] model: Denormalized field 'soil_moisture' using domain range [0.0, 100.0].
+2025-12-04 13:28:08,056 [INFO] model: Denormalized field 'soil_pH' using domain range [3.5, 8.5].
+2025-12-04 13:28:08,057 [INFO] model: Denormalized field 'temperature' using domain range [0.0, 50.0].
+2025-12-04 13:28:08,057 [INFO] model: Denormalized field 'rainfall' using domain range [0.0, 400.0].
+2025-12-04 13:28:08,058 [INFO] model: Denormalized field 'humidity' using domain range [0.0, 100.0].
+2025-12-04 13:28:08,066 [INFO] model: Denormalized field 'sunlight_hours' using domain range [0.0, 14.0].
+2025-12-04 13:28:08,067 [INFO] model: Denormalized field 'pesticide_usage' using domain range [0.0, 200.0].
+2025-12-04 13:28:08,067 [INFO] model: Denormalized field 'total_days' using domain range [0.0, 220.0].
+2025-12-04 13:28:08,069 [INFO] model: Denormalized field 'latitude' using domain range [-90.0, 90.0].
+2025-12-04 13:28:08,070 [INFO] model: Denormalized field 'longitude' using domain range [-180.0, 180.0].
+2025-12-04 13:28:08,443 [INFO] model: Prediction completed: 3764.92
+2025-12-04 13:28:08,443 [INFO] __main__: Prediction succeeded: 3764.92
+2025-12-04 13:28:12,102 [INFO] __main__: Starting prediction thread.
+2025-12-04 13:28:12,111 [INFO] model: Denormalized field 'soil_moisture' using domain range [0.0, 100.0].
+2025-12-04 13:28:12,111 [INFO] model: Denormalized field 'soil_pH' using domain range [3.5, 8.5].
+2025-12-04 13:28:12,112 [INFO] model: Denormalized field 'temperature' using domain range [0.0, 50.0].
+2025-12-04 13:28:12,112 [INFO] model: Denormalized field 'rainfall' using domain range [0.0, 400.0].
+2025-12-04 13:28:12,113 [INFO] model: Denormalized field 'humidity' using domain range [0.0, 100.0].
+2025-12-04 13:28:12,114 [INFO] model: Denormalized field 'sunlight_hours' using domain range [0.0, 14.0].
+2025-12-04 13:28:12,114 [INFO] model: Denormalized field 'pesticide_usage' using domain range [0.0, 200.0].
+2025-12-04 13:28:12,115 [INFO] model: Denormalized field 'total_days' using domain range [0.0, 220.0].
+2025-12-04 13:28:12,115 [INFO] model: Denormalized field 'latitude' using domain range [-90.0, 90.0].
+2025-12-04 13:28:12,116 [INFO] model: Denormalized field 'longitude' using domain range [-180.0, 180.0].
+2025-12-04 13:28:12,477 [INFO] model: Prediction completed: 3764.92
+2025-12-04 13:28:12,477 [INFO] __main__: Prediction succeeded: 3764.92
+2025-12-04 13:28:17,287 [INFO] __main__: Starting prediction thread.
+2025-12-04 13:28:17,292 [INFO] model: Denormalized field 'soil_moisture' using domain range [0.0, 100.0].
+2025-12-04 13:28:17,293 [INFO] model: Denormalized field 'soil_pH' using domain range [3.5, 8.5].
+2025-12-04 13:28:17,294 [INFO] model: Denormalized field 'temperature' using domain range [0.0, 50.0].
+2025-12-04 13:28:17,295 [INFO] model: Denormalized field 'rainfall' using domain range [0.0, 400.0].
+2025-12-04 13:28:17,295 [INFO] model: Denormalized field 'humidity' using domain range [0.0, 100.0].
+2025-12-04 13:28:17,296 [INFO] model: Denormalized field 'sunlight_hours' using domain range [0.0, 14.0].
+2025-12-04 13:28:17,297 [INFO] model: Denormalized field 'pesticide_usage' using domain range [0.0, 200.0].
+2025-12-04 13:28:17,298 [INFO] model: Denormalized field 'total_days' using domain range [0.0, 220.0].
+2025-12-04 13:28:17,298 [INFO] model: Denormalized field 'latitude' using domain range [-90.0, 90.0].
+2025-12-04 13:28:17,299 [INFO] model: Denormalized field 'longitude' using domain range [-180.0, 180.0].
+2025-12-04 13:28:17,670 [INFO] model: Prediction completed: 3845.22
+2025-12-04 13:28:17,671 [INFO] __main__: Prediction succeeded: 3845.22
+2025-12-04 13:28:20,774 [INFO] __main__: Starting prediction thread.
+2025-12-04 13:28:20,776 [INFO] model: Denormalized field 'soil_moisture' using domain range [0.0, 100.0].
+2025-12-04 13:28:20,777 [INFO] model: Denormalized field 'soil_pH' using domain range [3.5, 8.5].
+2025-12-04 13:28:20,778 [INFO] model: Denormalized field 'temperature' using domain range [0.0, 50.0].
+2025-12-04 13:28:20,779 [INFO] model: Denormalized field 'rainfall' using domain range [0.0, 400.0].
+2025-12-04 13:28:20,779 [INFO] model: Denormalized field 'humidity' using domain range [0.0, 100.0].
+2025-12-04 13:28:20,780 [INFO] model: Denormalized field 'sunlight_hours' using domain range [0.0, 14.0].
+2025-12-04 13:28:20,781 [INFO] model: Denormalized field 'pesticide_usage' using domain range [0.0, 200.0].
+2025-12-04 13:28:20,782 [INFO] model: Denormalized field 'total_days' using domain range [0.0, 220.0].
+2025-12-04 13:28:20,783 [INFO] model: Denormalized field 'latitude' using domain range [-90.0, 90.0].
+2025-12-04 13:28:20,784 [INFO] model: Denormalized field 'longitude' using domain range [-180.0, 180.0].
+2025-12-04 13:28:21,161 [INFO] model: Prediction completed: 3840.72
+2025-12-04 13:28:21,161 [INFO] __main__: Prediction succeeded: 3840.72
+2025-12-04 13:47:18,247 [WARNING] model: Default dataset candidate missing: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_2024.csv
+2025-12-04 13:47:18,247 [INFO] model: Loading default dataset from f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-12-04 13:47:18,247 [INFO] model: Loading CSV dataset: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-12-04 13:47:18,251 [INFO] __main__: Default dataset loaded successfully.
+2025-12-04 13:48:12,432 [WARNING] model: Default dataset candidate missing: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_2024.csv
+2025-12-04 13:48:12,432 [INFO] model: Loading default dataset from f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-12-04 13:48:12,432 [INFO] model: Loading CSV dataset: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-12-04 13:48:12,436 [INFO] __main__: Default dataset loaded successfully.
+2025-12-04 13:48:22,826 [WARNING] model: Default dataset candidate missing: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_2024.csv
+2025-12-04 13:48:22,826 [INFO] model: Loading default dataset from f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-12-04 13:48:22,827 [INFO] model: Loading CSV dataset: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-12-04 13:48:22,832 [INFO] __main__: Default dataset loaded successfully.
+2025-12-04 13:48:27,993 [INFO] __main__: Starting prediction thread.
+2025-12-04 13:48:27,995 [INFO] model: Denormalized field 'soil_moisture' using domain range [0.0, 100.0].
+2025-12-04 13:48:27,996 [INFO] model: Denormalized field 'soil_pH' using domain range [3.5, 8.5].
+2025-12-04 13:48:27,998 [INFO] model: Denormalized field 'temperature' using domain range [0.0, 50.0].
+2025-12-04 13:48:27,998 [INFO] model: Denormalized field 'rainfall' using domain range [0.0, 400.0].
+2025-12-04 13:48:28,000 [INFO] model: Denormalized field 'humidity' using domain range [0.0, 100.0].
+2025-12-04 13:48:28,000 [INFO] model: Denormalized field 'sunlight_hours' using domain range [0.0, 14.0].
+2025-12-04 13:48:28,001 [INFO] model: Denormalized field 'pesticide_usage' using domain range [0.0, 200.0].
+2025-12-04 13:48:28,002 [INFO] model: Denormalized field 'total_days' using domain range [0.0, 220.0].
+2025-12-04 13:48:28,004 [INFO] model: Denormalized field 'latitude' using domain range [-90.0, 90.0].
+2025-12-04 13:48:28,005 [INFO] model: Denormalized field 'longitude' using domain range [-180.0, 180.0].
+2025-12-04 13:48:28,377 [INFO] model: Prediction completed: 4065.29
+2025-12-04 13:48:28,378 [INFO] __main__: Prediction succeeded: 4065.29
+2025-12-04 13:48:43,210 [WARNING] model: Default dataset candidate missing: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_2024.csv
+2025-12-04 13:48:43,211 [INFO] model: Loading default dataset from f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-12-04 13:48:43,211 [INFO] model: Loading CSV dataset: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-12-04 13:48:43,214 [INFO] __main__: Default dataset loaded successfully.
+2025-12-05 10:18:23,172 [WARNING] model: Default dataset candidate missing: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_2024.csv
+2025-12-05 10:18:23,172 [INFO] model: Loading default dataset from f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-12-05 10:18:23,172 [INFO] model: Loading CSV dataset: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-12-05 10:18:23,176 [INFO] __main__: Default dataset loaded successfully.
+2025-12-05 10:18:38,002 [INFO] __main__: Starting prediction thread.
+2025-12-05 10:18:38,004 [INFO] model: Denormalized field 'soil_moisture' using domain range [0.0, 100.0].
+2025-12-05 10:18:38,008 [INFO] model: Denormalized field 'soil_pH' using domain range [3.5, 8.5].
+2025-12-05 10:18:38,010 [INFO] model: Denormalized field 'temperature' using domain range [0.0, 50.0].
+2025-12-05 10:18:38,011 [INFO] model: Denormalized field 'rainfall' using domain range [0.0, 400.0].
+2025-12-05 10:18:38,011 [INFO] model: Denormalized field 'humidity' using domain range [0.0, 100.0].
+2025-12-05 10:18:38,012 [INFO] model: Denormalized field 'sunlight_hours' using domain range [0.0, 14.0].
+2025-12-05 10:18:38,013 [INFO] model: Denormalized field 'pesticide_usage' using domain range [0.0, 200.0].
+2025-12-05 10:18:38,013 [INFO] model: Denormalized field 'total_days' using domain range [0.0, 220.0].
+2025-12-05 10:18:38,014 [INFO] model: Denormalized field 'latitude' using domain range [-90.0, 90.0].
+2025-12-05 10:18:38,015 [INFO] model: Denormalized field 'longitude' using domain range [-180.0, 180.0].
+2025-12-05 10:18:38,405 [INFO] model: Prediction completed: 4065.29
+2025-12-05 10:18:38,405 [INFO] __main__: Prediction succeeded: 4065.29
+2025-12-05 10:33:54,435 [WARNING] model: Default dataset candidate missing: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_2024.csv
+2025-12-05 10:33:54,435 [INFO] model: Loading default dataset from f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-12-05 10:33:54,435 [INFO] model: Loading CSV dataset: f:\Programming\Digital Projects\Crop Growth simulation\Smart_Farming_Crop_Yield_MinMaxScaler.csv
+2025-12-05 10:33:54,439 [INFO] __main__: Default dataset loaded successfully.
+2025-12-05 10:34:00,964 [INFO] __main__: Starting prediction thread.
+2025-12-05 10:34:00,967 [INFO] model: Denormalized field 'soil_moisture' using domain range [0.0, 100.0].
+2025-12-05 10:34:00,970 [INFO] model: Denormalized field 'soil_pH' using domain range [3.5, 8.5].
+2025-12-05 10:34:00,971 [INFO] model: Denormalized field 'temperature' using domain range [0.0, 50.0].
+2025-12-05 10:34:00,971 [INFO] model: Denormalized field 'rainfall' using domain range [0.0, 400.0].
+2025-12-05 10:34:00,972 [INFO] model: Denormalized field 'humidity' using domain range [0.0, 100.0].
+2025-12-05 10:34:00,973 [INFO] model: Denormalized field 'sunlight_hours' using domain range [0.0, 14.0].
+2025-12-05 10:34:00,973 [INFO] model: Denormalized field 'pesticide_usage' using domain range [0.0, 200.0].
+2025-12-05 10:34:00,974 [INFO] model: Denormalized field 'total_days' using domain range [0.0, 220.0].
+2025-12-05 10:34:00,976 [INFO] model: Denormalized field 'latitude' using domain range [-90.0, 90.0].
+2025-12-05 10:34:00,976 [INFO] model: Denormalized field 'longitude' using domain range [-180.0, 180.0].
+2025-12-05 10:34:01,348 [INFO] model: Prediction completed: 4065.29
+2025-12-05 10:34:01,349 [INFO] __main__: Prediction succeeded: 4065.29
