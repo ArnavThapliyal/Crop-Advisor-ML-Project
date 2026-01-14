@@ -7,3 +7,8 @@ XGBoost was tested first but Random Forest produced more dependable results. A
 simple interface using Tkinter along with Pathlab and Longin was developed. The
 study shows that machine learning can help farmers make informed decisions.
 Keywords: crop growth, simulation, random forest, agriculture, advisory system
+
+## Future Scope
+- Containerize model for deployment
+- Expose prediction API
+- Deploy on cloud infrastructure
